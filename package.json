@@ -1,0 +1,21 @@
+{
+  "name": "newname",
+  "version": "1.0.0",
+  "description": "The next big thing",
+  "scripts": {
+    "build": "rollup -c",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "xxxx.git"
+  },
+  "author": "Buzut (https://buzut.fr)",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-security": "^1.4.0",
+    "rollup": "^0.62.0"
+  }
+}
