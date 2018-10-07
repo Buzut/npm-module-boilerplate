@@ -8,3 +8,8 @@ It comes with the strict minimum:
 * dependencies for eslint (`airbnb-base`, `plugin-import` & `plugin-security`)
 
 You can even remove the Rollup config alltogether if you're developing for the server with CJS module only.
+
+## Getting started
+Just download a copy of this repo (don't clone it, you're going to start a new git project).
+
+Then you'll want to update or change the LICENCE and update the package.json with your own informations (repo, keywords, author, bugs…). And you're good to go!
