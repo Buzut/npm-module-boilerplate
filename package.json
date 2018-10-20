@@ -2,6 +2,12 @@
   "name": "newname",
   "version": "1.0.0",
   "description": "The next big thing",
+  "main": "lib/index.js",
+  "module": "src/index.js",
+  "files": [
+    "src",
+    "lib"
+  ],
   "scripts": {
     "build": "rollup -c",
     "prepublishOnly": "npm run build"
