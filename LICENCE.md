@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) [2017], [Quentin Busuttil]
+Copyright (c) [2019], [Quentin Busuttil]
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
